@@ -7,12 +7,16 @@ Tes Fullstack Energeek adalah proyek pembuatan aplikasi tes online menggunakan d
 
 ## Screenshoot Database
 - Tabel Candidates
+
 ![image](https://github.com/NCholisM/energeek/assets/57277402/47abe276-f78e-4886-b6cd-a653cda54159)
 - Tabel Jobs
+
 ![image](https://github.com/NCholisM/energeek/assets/57277402/3fbf82ae-df9e-407e-8e09-3affb2cebe09)
 - Tabel Skills
+
 ![image](https://github.com/NCholisM/energeek/assets/57277402/490e132d-b7e5-477f-9d23-1eb738a84e0c)
 - Tabel SkillSets
+
 ![image](https://github.com/NCholisM/energeek/assets/57277402/4e550b50-4bf7-44f1-bd6b-9a18009876be)
 
 ## Seeder
