@@ -2,6 +2,8 @@
  
 Tes Fullstack Energeek adalah proyek pembuatan aplikasi tes online menggunakan database MySQL, Laravel 9 sebagai backend dan Vue 3 sebagai frontend. Proyek ini bertujuan untuk menilai kemampuan kandidat dalam pengembangan perangkat lunak.
 
+Link API Documentation : https://documenter.getpostman.com/view/17561608/2sA2xb6FdD
+
 ## Screenshoot Hasil
 ![screencapture-localhost-8080-2024-03-02-13_55_21](https://github.com/NCholisM/energeek/assets/57277402/d29c1ce9-1cd7-4a3b-b663-6b9a70297c0a)
 
