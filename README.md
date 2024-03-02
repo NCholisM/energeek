@@ -1,15 +1,16 @@
-# energeek
+# Energeek - Tes Online Junior Fullstack Web Programmer
  
 Tes Fullstack Energeek adalah proyek pembuatan aplikasi tes online menggunakan Laravel 9 sebagai backend dan Vue 3 sebagai frontend. Proyek ini bertujuan untuk menilai kemampuan kandidat dalam pengembangan perangkat lunak.
 
-Persyaratan Utama:
+# Requirement
 
--Desain database menggunakan ERD yang disediakan.
--Dokumentasi API menggunakan Postman atau Swagger.
--Database menggunakan MySQL atau PostgreSQL.
--Menggunakan Laravel migration untuk pengelolaan struktur database.
--Penyimpanan data di frontend menggunakan ajax atau axios.
-- seeder untuk data skill set dan daftar jabatan.
+1. Desain database menggunakan Link ERD yang terlampir
+2. Dokumentasi API menggunakan Postman / Swagger
+3. Database menggunakan MySQL / PostgreSQL
+4. Wajib menggunakan laravel migration
+5. Basis template disarankan menggunakan AdminLte (tidak wajib)
+6. Save data di frontend wajib menggunakan ajax / axios
+7. Diperlukan seeder untuk data skill set dan list jabatan
 Panduan Pengerjaan:
 
 Bangun aplikasi sesuai dengan mock up yang disediakan.
